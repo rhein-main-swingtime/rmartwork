@@ -20,7 +20,9 @@ Dann kommen jede Menge Informationen zu:
   * Facebook Gruppen
   * Telegram Chats
   * andere Webseiten
+
 * Dinge rund ums Swingtanzen
+  * Etikette 
   * Bands
   * DJs
   * Orte die Veranstaltungen machen
