@@ -46,7 +46,7 @@ Auch nach Priorität: Wer nutzt rmswing.de?
 
 Was bekommen diese Leute genau bei uns?
 
-* Reguläre
+### Reguläre
   * social dances/Veranstaltungen:
     * Die nächsten Events gleich ganz vorne auf der Hauptseite.
     * Alle Informationen und Links dazu auf Click: website,facebook,event,maps,im eigenen Kalender speichern
@@ -58,7 +58,7 @@ Was bekommen diese Leute genau bei uns?
     * Gegebenenfalls Link zum Kalender
     * Kalender mit Allen classes
 
-* Interessierte
+### Interessierte
   * Swing Tanzen?/Swing Dancing? was/what - Knackige Einführung was wir machen/wie wir organisiert sind
   * Was macht ihr da?
     * Wir tanzen zu Swingmusik ab Anfang der 1930er Jahre ... > Link zu Musik
@@ -82,9 +82,7 @@ Was bekommen diese Leute genau bei uns?
     * ...
   * Links zu teachern/Vereinen
 
-
-
-* Veranstaltende
+### Veranstaltende
   * Links mit Facebook-Gruppen und deren Policy (passende Werbung erwünscht/verboten)
   * Listen mit Orten, Bands, DJs, Tanzgruppen
 
