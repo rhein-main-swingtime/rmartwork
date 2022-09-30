@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="87mm"
+   height="57mm"
+   viewBox="0 0 87.000003 57"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="rmst visitenkarten 1 de back.svg"
+   inkscape:export-filename="C:\Users\eric\io\prj\web\psycho löw heinemann\proof.png"
+   inkscape:export-xdpi="356.04559"
+   inkscape:export-ydpi="356.04559"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient886"
+       inkscape:collect="always">
+      <stop
+         id="stop882"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop884"
+         offset="1"
+         style="stop-color:#35ff21;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient851"
+       x1="22.460938"
+       y1="35.105911"
+       x2="96.890266"
+       y2="35.105911"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="radialGradient867"
+       cx="40.158062"
+       cy="52.061371"
+       fx="40.158062"
+       fy="52.061371"
+       r="17.970423"
+       gradientTransform="matrix(1,0,0,0.2379583,0,39.672934)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="radialGradient869"
+       cx="109.44361"
+       cy="52.301514"
+       fx="109.44361"
+       fy="52.301514"
+       r="35.116608"
+       gradientTransform="matrix(1,0,0,0.12361122,0,45.836459)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.687954"
+     inkscape:cx="146.92344"
+     inkscape:cy="93.604447"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="50"
+     fit-margin-left="50"
+     fit-margin-right="50"
+     fit-margin-bottom="50"
+     lock-margins="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     width="87mm"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="0,55.999999"
+       orientation="0,1"
+       id="guide925"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0.99999999,56.999999"
+       orientation="-1,0"
+       id="guide927"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0.99999999"
+       orientation="0,1"
+       id="guide929"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="85.999999,56.999999"
+       orientation="-1,0"
+       id="guide931"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4,41.986187"
+       orientation="-1,0"
+       id="guide953"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,4"
+       orientation="0,1"
+       id="guide981"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,53"
+       orientation="0,1"
+       id="guide1148"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="82.999999,56.999999"
+       orientation="-1,0"
+       id="guide1150"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="64.136039,29.193345"
+       orientation="-1,0"
+       id="guide871"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg1"
+     id="g884"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <path
+       sodipodi:nodetypes="ccccc"
+       d="M 0,0 H 235.63326 V 71.487227 L 0,71.522764 Z"
+       style="fill:#9e002b;fill-opacity:1;stroke:none;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path882" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="bg0" />
+  <g
+     style="display:inline"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(40.076058,49.619145)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:79.1929;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.268982"
+       y="-41.319668"
+       id="text2514"
+       transform="translate(0.03189827,13.831316)"><tspan
+         x="-36.268982"
+         y="-41.319668"
+         id="tspan31281">Alles übers <tspan
+   style="font-weight:bold"
+   id="tspan31279">Swing-Tanzen </tspan>in und um </tspan><tspan
+         x="-36.268982"
+         y="-36.028005"
+         id="tspan31283">Frankfurt &amp; der Rhein-Main-Region.</tspan></text>
+    <image
+       width="21.550358"
+       height="21.550358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAABHNCSVQICAgIfAhkiAAAA8pJREFU eJzt3VFu2zAQQMG66P2v7F6gfoAFkVmqM/9JHLkPBLbM+vV+v9+/gH/6/dMvACYTCASBQBAIBIFA EAgEgUAQCASBQBAIBIFA+PPtF7xerxWvY6u6fla/36Svu2rF6zzFlefpBIEgEAgCgSAQCAKBIBAI X495y6S/3r06llwx6pw0Il3xHj3hff/ECQJBIBAEAkEgEAQCQSAQbh3zlhWjzt23Xa+6+jpXjKp3 m/Q8r3CCQBAIBIFAEAgEgUAQCIRtY17+bfet40kj4BM4QSAIBIJAIAgEgkAgCASCMe8Xdt/KXfE9 jYC/4wSBIBAIAoEgEAgCgSAQCNvGvKeMEE9ZsHDKR6md8r5/4gSBIBAIAoEgEAgCgSAQCLeOeSd9 1NhVK267Pn3BwhPe90+cIBAEAkEgEAQCQSAQBALh6zHvKaPHq075/Xbf2D3ludzNCQJBIBAEAkEg EAQCQSAQvh7znvJH/yuWGuxe6LD7pu+k373sfP+cIBAEAkEgEAQCQSAQBALh1tu8k8aEKxYsXPX0 m7dPGEd/4gSBIBAIAoEgEAgCgSAQCNs+gu0JO29X3MrdbdIt56t2/jwnCASBQBAIBIFAEAgEgUC4 dWnD7lur5ZTXssLuUe7ufxPGvDCEQCAIBIJAIAgEgkAgvN43zswm/fF+mbRAYtKIdNL4e8oyCycI BIFAEAgEgUAQCASBQBixtGGFU0a5uz3hNna5+3U6QSAIBIJAIAgEgkAgCATCtjHvCpN2yU666VtO uQE9ZaGDEwSCQCAIBIJAIAgEgkAgbNvNu9ukhQBPGAFPep7l7ufiBIEgEAgCgSAQCAKBIBAIt+7m XWHS6LE8YbT6dMa8cDOBQBAIBIFAEAgEgUAYv7Th6vh00ti1vm7FlP2UZRaTPpruEycIBIFAEAgE gUAQCASBQLh1acMpdo9dr5r0rCct69j5XJwgEAQCQSAQBAJBIBAEAuHW27z/84j0lBu0V+1+b3d/ 5NsnThAIAoEgEAgCgSAQCAKBsG1pwxNGj2XSbderI+fdo/EVz+zuZ+0EgSAQCAKBIBAIAoEgEAjj d/PuNmlRwqS9vbu/55T/FnCCQBAIBIFAEAgEgUAQCARj3i884fbwlI82W/Xz3OaFjQQCQSAQBAJB IBAEAmHbmHfSiHS3U24IT1o8UXa+FicIBIFAEAgEgUAQCASBQLh1zDtpnLnCCbtkf8LuxQw7b/o6 QSAIBIJAIAgEgkAgCATC6/2EOSMs4gSBIBAIAoEgEAgCgSAQCAKBIBAIAoEgEAgCgSAQCH8BeNyI oqWT0CIAAAAASUVORK5CYII= "
+       id="image3442"
+       x="22.751705"
+       y="-18.183094" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:69.6418;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.268982"
+       y="-41.319668"
+       id="text12713"
+       transform="translate(0.00537103,38.699868)"><tspan
+         x="-36.268982"
+         y="-41.319668"
+         id="tspan31287">Finde <tspan
+   style="font-weight:bold"
+   id="tspan31285">Veranstaltungen</tspan>, Tanzkurse,
+</tspan><tspan
+         x="-36.268982"
+         y="-36.909942"
+         id="tspan31291">Gruppen,  <tspan
+   style="font-weight:bold"
+   id="tspan31289">Infos </tspan>&amp; all that jazz!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.12802px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:79.1929;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.268982"
+       y="-41.319668"
+       id="text13592"
+       transform="matrix(0.51275583,0,0,0.51275583,42.606752,3.1560919)"><tspan
+         x="-36.268982"
+         y="-41.319668"
+         id="tspan31293">https://rmswing.de</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:79.1929;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.268982"
+       y="-41.319668"
+       id="text13782"
+       transform="translate(0.02052935,26.982966)"><tspan
+         x="-36.268982"
+         y="-41.319668"
+         id="tspan31299"><tspan
+   style="font-weight:bold"
+   id="tspan31295">Darmstadt</tspan>, Frankfurt, <tspan
+   style="font-weight:bold"
+   id="tspan31297">Höchst</tspan>,
+</tspan><tspan
+         x="-36.268982"
+         y="-36.909945"
+         id="tspan31303">Mainz, <tspan
+   style="font-weight:bold"
+   id="tspan31301">Offenbach</tspan>, Wiesbaden ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:82.1565;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.268982"
+       y="-41.319668"
+       id="text17156"
+       transform="translate(0.03430987,-0.53743329)"><tspan
+         x="-36.268982"
+         y="-41.319668"
+         id="tspan31309"><tspan
+   style="font-weight:bold"
+   id="tspan31305">Lindy-Hop</tspan>, Charleston, <tspan
+   style="font-weight:bold"
+   id="tspan31307">Balboa</tspan>, </tspan><tspan
+         x="-36.268982"
+         y="-35.146059"
+         id="tspan31313">Collegiate <tspan
+   style="font-weight:bold"
+   id="tspan31311">Shag</tspan>, Blues ...</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 5"
+     style="display:none">
+    <text
+       transform="translate(40.076059,49.619146)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.502561"
+       y="19.752317"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="15.502561"
+         y="19.752317"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke-width:0.264583">Psychotherapie</tspan></text>
+    <text
+       transform="translate(40.076059,49.619146)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.572234"
+       y="30.308416"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="15.572234"
+         y="30.308416"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke-width:0.264583">Dr. Löw -</tspan><tspan
+         sodipodi:role="line"
+         x="15.572234"
+         y="43.53754"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke-width:0.264583"
+         id="tspan892" /></text>
+    <text
+       transform="translate(40.076059,49.619146)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.776752"
+       y="30.676943"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="63.776752"
+         y="30.676943"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfdfd;fill-opacity:1;stroke-width:0.264583">Dr. Heinemann</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:none">
+    <path
+       id="path912"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 99.810393,49.470835 c -27.794441,0 -50.339559,22.545636 -50.339559,50.340078 2e-6,27.794447 22.545121,50.341627 50.339559,50.341627 26.550897,0 48.312017,-20.57539 50.206237,-46.64469 h -1.30328 c -1.88915,25.36365 -23.05495,45.344 -48.902957,45.344 -27.091866,0 -49.03886,-21.94907 -49.038863,-49.040937 0,-27.09187 21.946997,-49.039383 49.038863,-49.039383 22.064847,2e-6 40.717017,14.558663 46.879827,34.597372 h 1.35444 C 141.83379,64.609866 122.58521,49.470836 99.810393,49.470835 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none"
+     transform="translate(40.076058,49.619145)">
+    <path
+       id="path899"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.91339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 54.191406,79.960938 c -1.843162,0 -3.404297,1.559181 -3.404297,3.402343 V 235.35742 c 0,1.84316 1.561135,3.41016 3.404297,3.41016 H 449.05469 c 1.84312,0 3.40429,-1.56702 3.40429,-3.41016 v -37.70508 h -4.91015 v 36.19922 H 55.697266 V 84.869141 H 447.54883 V 135.6582 h 4.91015 V 83.363281 c 0,-1.843139 -1.56117,-3.402344 -3.40429,-3.402343 z"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
